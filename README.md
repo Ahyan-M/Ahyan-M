@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="pic.jpg" alt="Ahyan Mehta" width="150" height="150" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/106750687?v=4" alt="Ahyan Mehta" width="150" height="150" style="border-radius: 50%" />
 </p>
 
 <h1 align="center">Hey, I'm Ahyan 👋</h1>
