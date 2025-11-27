@@ -28,4 +28,4 @@
 
 ```txt
 Languages: JavaScript | Python | Java | C++ | HTML/CSS | Go  
-Frameworks & Tools: React | Flask | Tailwind | MongoDB | Docker | Git | AWS
+Frameworks & Tools: React | Flask | Tailwind
