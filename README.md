@@ -27,5 +27,5 @@
 </h2>
 
 ```txt
-Languages: JavaScript | Python | Java | C++ | HTML/CSS | Go  
+Languages: JavaScript | Python | Java | C++ | HTML/CSS   
 Frameworks & Tools: React | Flask | Tailwind
