@@ -1,31 +1,32 @@
+# Ahyan Mehta
 
+Computer Science student at Ontario Tech University with a strong interest in software engineering and full-stack development.  
+I enjoy building practical applications, writing clean code, and learning how real systems are designed and scaled.
 
-<h1 align="center">Hey, I'm Ahyan 👋</h1>
+## About Me
+- 🎓 Computer Science @ Ontario Tech University  
+- 💻 Interested in software engineering, full-stack development, and problem solving  
+- 🛠 Experience building projects with modern web and backend technologies  
+- 🌱 Continuously learning and improving through hands-on projects  
 
-<p align="center">
-  A curious builder, creative thinker, and code enthusiast who’s always exploring new ways to solve real problems with tech.
-</p>
+## Technical Skills
+**Languages:**  
+JavaScript, Python, Java, C++, HTML, CSS  
 
----
+**Frameworks & Tools:**  
+ PyCharm, Jupyter Notebooks, Git, React, Microsoft Azure, Microsoft Office, Scikit-learn, Flask & Pandas
 
-<!-- Animated Headers -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F9FF&center=true&width=435&lines=%F0%9F%93%9D+About+Me;Let's+build+something+cool+%F0%9F%9A%80" alt="Typing SVG" />
-</h2>
+## Projects
+Here are a few projects that showcase my skills:
+- **Tailrd** – An AI-Powered Resume Optimizer that optimizes a user's resume using NLP.  
+- **Premiere Leauge Match Predictor** – A Machine Learning Model which predicts a soccer team's win percentage
+- **Youtube Chrome Extension** – A Youtube Chrome Extension which helps you focus on work.
 
-- 🎓 Computer Science student @ Ontario Tech  
-- 🛠 I like building cool stuff with Python, React, and Flask  
-- 🌱 Always learning, always creating, always shipping  
-- 🧠 I’m into solving problems with clean code and creative thinking  
-- 🏀 Love hooping with my friends & trash-talking over video games 🎮  
-- 🌌 I believe great tech starts with curiosity and ends with impact  
+## Currently Learning
+- Building scalable full-stack applications  
+- Writing cleaner, more maintainable code  
+- Improving UI/UX with modern design practices  
 
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F9FF&center=true&width=435&lines=%F0%9F%93%9C+Tech+Stack;What+I+Work+With+%F0%9F%92%BB" alt="Typing SVG" />
-</h2>
-
-```txt
-Languages: JavaScript | Python | Java | C++ | HTML/CSS   
-Frameworks & Tools: React | Flask | Tailwind
+## Contact
+- Portfolio: https://ahyanmehta.netlify.app/ 
+- LinkedIn: linkedin.com/in/ahyanmehta1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_nlsearch_srp_jobs%3BeV3xEFObS2yKnkAxeYwtSg%3D%3D
