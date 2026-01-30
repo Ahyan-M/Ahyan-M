@@ -11,7 +11,7 @@ I enjoy building practical applications, writing clean code, and learning how re
 
 ## Technical Skills
 **Languages:**  
-JavaScript, Python, Java, C++, HTML, CSS  
+JavaScript, Python, Java, C++, HTML & CSS  
 
 **Frameworks & Tools:**  
  PyCharm, Jupyter Notebooks, Git, React, Microsoft Azure, Microsoft Office, Scikit-learn, Flask & Pandas
