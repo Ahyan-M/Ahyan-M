@@ -29,4 +29,3 @@ Here are a few projects that showcase my skills:
 
 ## Contact
 - Portfolio: https://ahyanmehta.netlify.app/ 
-- LinkedIn: linkedin.com/in/ahyanmehta1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_nlsearch_srp_jobs%3BeV3xEFObS2yKnkAxeYwtSg%3D%3D
